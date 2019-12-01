@@ -1,0 +1,22 @@
+
+.inputsBox{
+    width:100%;
+    display: block;
+    text-align:center;
+    padding-top: 10px;
+}
+.occupationInput{    
+    width: 100px;
+
+}
+.salaryInput{
+    width: 100px;
+
+}
+.addButton{
+    width: 50px;
+
+}
+.nameInput{
+    width: 100px;
+}
